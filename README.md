@@ -11,8 +11,8 @@ Acesse a explicação completa [aqui](https://youtu.be/1fM416AdQeE)
 Você pode obter a base de dados para download no site do [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
 ## Contribuição dos Integrantes
-- Ian Sandes:
-- Jose Everton: Pesquisa do trabalho, dicussão dos algoritmos e implementação da tecnicas.
+- Ian Sandes: Pesquisa do trabalho, discussão dos algoritmos e implementação das técnicas.
+- Jose Everton: Pesquisa do trabalho, dicussão dos algoritmos e implementação das tecnicas.
 
 ## Resultados
 
