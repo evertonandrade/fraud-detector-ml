@@ -16,8 +16,8 @@ Você pode obter a base de dados para download no site do [Kaggle](https://www.k
 
 ## Resultados
 
-![Random Forest](https://i.ibb.co/tsRNtM6/rf.jpg)
+![Random Forest](https://i.ibb.co/tsRNtM6/rf.jpg)  
 Random Forest  
 
-![Random Forest com PCA](https://i.ibb.co/2W4ZXFk/rf-pca.jpg)
+![Random Forest com PCA](https://i.ibb.co/2W4ZXFk/rf-pca.jpg)  
 Random Forest  
